@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CreditoKiosco</string>
+    <string name="title_select_client">Cliente</string>
 </resources>
